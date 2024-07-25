@@ -30,3 +30,5 @@ These mods are less about managing your server, and more about adding additional
 - [BTAElevators](https://github.com/BTAServerSolutions/BTAElevators) adds simple server-side elevators through the use of steel blocks
 - [PotatoTech](https://github.com/BTAServerSolutions/potato-tech) adds industrial tech to the game, like pipes.
 - [Survival Levelling](https://github.com/BTAServerSolutions/survival-levelling) adds a levelling system, blocking and parrying to BTA.
+- [Him](https://github.com/BTAServerSolutions/Him) adds Herobrine to BTA
+- [GoldenCosmetics](https://github.com/BTAServerSolutions/GoldenCosmetics) adds Cosmetics to BTA with hooks into *ServerUtils*, built using the *GUI Lib*, planned to be used primarily on [GASMP](https://goldenage-smp.org/)
