@@ -5,17 +5,18 @@ Whether you're looking for chest shops, InvSee, or even a nice steel block eleva
 ## [BTAServerUtilities](https://github.com/BTAServerSolutions/BTAServerUtilities)
 ...is the main mod. It was originally created as an utility mod for MelonBTA ([MelonCommands](https://github.com/BTAServerSolutions/melon-commands-deprecated-)) before being merged with
 [GoldenAge's](https://goldenage-smp.org) utility mod Omnimod. Includes:
-* Roles
-* Kits
-* Container Locking
-* Player Info commands
-* InvSee
-* Vanish
-* Homes and Warps
-* Chest Shops
-* Freezing players
-* Block Inspection
-* A detailed config for modifiying all of this
+* Roles (DONE!)
+* Kits (DONE!)
+* Container Locking (TODO..)
+* Player Info commands (TODO..)
+* InvSee (TODO..)
+* Vanish (WIP.)
+* Homes (DONE!)
+* Warps (WIP.)
+* Chest Shops (TODO..)
+* Freezing players (TODO..)
+* Block Inspection (TODO..)
+* A detailed config for modifiying all of this (DONE AND WIP!)
 
 ## [BTADiscordIntegration](https://github.com/BTAServerSolutions/BTADiscordIntegration)
 ...provides a bridge between a Discord server channel and a BTA server chat. You get Discord messages when players join
