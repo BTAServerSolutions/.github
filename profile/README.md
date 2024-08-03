@@ -3,8 +3,8 @@
 Whether you're looking for chest shops, InvSee, or even a nice steel block elevator, we should have something for you!
 
 ## [BTAServerUtilities](https://github.com/BTAServerSolutions/BTAServerUtilities)
-...is the main mod. It was originally created as an utility mod for [GoldenAge](https://goldenage-smp.org), 
-before being merged with [MelonCommands](https://github.com/BTAServerSolutions/melon-commands-deprecated-). Includes:
+...is the main mod. It was originally created as an utility mod for MelonBTA ([MelonCommands](https://github.com/BTAServerSolutions/melon-commands-deprecated-)) before being merged with
+[GoldenAge's](https://goldenage-smp.org) utility mod Omnimod. Includes:
 * Roles
 * Kits
 * Container Locking
